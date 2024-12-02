@@ -1,4 +1,4 @@
-![screenshot] (url(./ilovegit.png)
+![Photo](ilovegit.png)
 
 Notice that the default branch here is master not main.
 
