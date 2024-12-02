@@ -1,3 +1,5 @@
+![Photo](ilovegit.png)
+
 Notice that the default branch here is master not main.
 
 To remove branches locally:
